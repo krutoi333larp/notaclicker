@@ -5,7 +5,7 @@ This is my first **.NET 9.0** program after just four days of learning C#!
 It’s a lightweight, high-performance auto-clicker built with **WPF** and native **WinAPI** (`mouse_event`). 
 
 ## Developer's Note
-- **Every single line of code is commented by me in Russian** to ensure I completely understand the underlying logic (this isn't just "vibe code")
+- **Every single line of code is commented by me in Russian** to ensure I completely understand the underlying logic (this isn't just vibecode)
 - The UI design was generated with the help of AI because XAML layout is from the 90s, and I wanted it to look human-friendly and clean.
 
 ## Features
